@@ -1,3 +1,8 @@
+#sprak job submit command
+ spark-submit --master yarn --deploy-mode cluster pysparkjob.py
+
+
+
 # Execute below commands after opening PySpark Shell 
 # Execute each command one by one
 
